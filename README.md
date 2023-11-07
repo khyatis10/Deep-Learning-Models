@@ -4,7 +4,7 @@ developing Deep learning models using python
 ## Objective:
 The primary objective of this project is to generate descriptive captions for images. The project uses a deep learning model to automatically generate textual descriptions for a given image.
 
-## Key Components:
+Key Components:
 
 ## 1.Data Preparation:
 The project starts by loading and preparing a dataset containing images and their corresponding captions. The captions are preprocessed by converting them to lowercase, removing special characters, and adding special tokens like "startseq" and "endseq" to indicate the beginning and end of captions.
